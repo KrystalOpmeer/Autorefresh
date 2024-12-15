@@ -99,7 +99,7 @@ try:
 
             print("Attempting to locate the course button...")
             course_button = WebDriverWait(driver, 5).until(  # Reduced waiting time to 5 seconds
-                EC.element_to_be_clickable((By.XPATH, '//*[@id="pageDivId2"]/div/table/tbody/tr[4]/td[8]/button'))
+                EC.element_to_be_clickable((By.XPATH, 'replace  your course button's Xpath here'))
             )
 
             driver.execute_script("arguments[0].scrollIntoView(true);", course_button)
@@ -115,7 +115,7 @@ try:
 
             print("Waiting for the back button...")
             back_button = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, '//*[@id=\"regForm\"]/div[2]/table/thead/tr[16]/td/div/button[2]'))
+                EC.element_to_be_clickable((By.XPATH, 'Replace your go back button's Xpath here'))
             )
 
             driver.execute_script("arguments[0].scrollIntoView(true);", back_button)
