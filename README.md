@@ -14,7 +14,7 @@ Clone this repository:
 
 git clone https://github.com/SOORYAN-K-R/Autorefresh.git
 
-cd selenium-clickmaster
+cd Autorefresh
 
 Install the required Python packages:
 
