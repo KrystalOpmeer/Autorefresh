@@ -12,7 +12,8 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/selenium-clickmaster.git
+git clone https://github.com/SOORYAN-K-R/Autorefresh.git
+
 cd selenium-clickmaster
 
 Install the required Python packages:
