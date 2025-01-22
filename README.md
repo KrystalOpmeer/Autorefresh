@@ -1,6 +1,6 @@
 # Autorefresh
 
-This project automates web interactions using Selenium, providing features for interactive execution control such as pausing, resuming, and graceful termination. The script is designed for tasks involving button clicks and dynamic user input during automation.
+This project automates web interactions using Selenium. The script is designed for tasks involving button clicks and dynamic user input during automation.
 
 Features
 
@@ -31,7 +31,7 @@ Replace the gobackbutton XPath:
 
 Run the script:
 
-python selenium_script.py
+python App.py
 
 Follow these steps during execution:
 
