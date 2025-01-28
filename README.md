@@ -12,7 +12,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/SOORYAN-K-R/Autorefresh.git
+git clone https://github.com/KrystalOpmeer/Autorefresh.git
 
 cd Autorefresh
 
